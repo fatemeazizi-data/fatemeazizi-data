@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Fatemeh 👋
 
-<!--
-**fatemeazizi-data/fatemeazizi-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst focused on SQL Server, Power BI, and Excel.
 
-Here are some ideas to get you started:
+### Skills
+- SQL Server / T-SQL
+- Power BI
+- Excel
+- Power Query
+- Data Cleaning
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- Data Cleaning & Standardization
+- Customer Churn Dashboard
+- Sales Dashboard
+- SQL Server Projects
