@@ -11,7 +11,4 @@ I'm a Data Analyst focused on SQL Server, Power BI, and Excel.
 - Data Visualization
 
 ### Projects
-- Data Cleaning & Standardization
-- Customer Churn Dashboard
-- Sales Dashboard
-- SQL Server Projects
+
